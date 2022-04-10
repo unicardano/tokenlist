@@ -17,24 +17,24 @@
         "name": "Dai Stablecoin",
         "address": "0xBb61250008A4e9aD15811260c158F000F020A3Bd",
         "symbol": "DAI",
-        "decimals": 200101,
-        "chainId": 1,
+        "decimals": 18,
+        "chainId": 200101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       },        
       {
         "name": "Uniswap",
         "address": "0x04991cE8ac8A95fF64Fa3aA76Aa495970069aD33",
         "symbol": "UNI",
-        "decimals": 200101,
-        "chainId": 42,
+        "decimals": 18,
+        "chainId": 200101,
         "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
       },
       {
         "name": "Wrapped Ether",
         "address": "0xd034bc3C84837Cfa08c8ECdD3F8d9EBB0D67e3B0",
         "symbol": "WETH",
-        "decimals": 200101,
-        "chainId": 42,
+        "decimals": 18,
+        "chainId": 200101,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
       },  
       
