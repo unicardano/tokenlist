@@ -79,12 +79,12 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       },    
       {
-        "name": "Uniswap",
+        "name": "Unicardano",
         "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
         "symbol": "UNI",
         "decimals": 18,
         "chainId": 2001,
-        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+        "logoURI": "ipfs://QmRtmcMdjSEJidnGEBvmmoH7N2ygbEs6hpeDHPVTYwVy92"
       },
 
       {
