@@ -22,12 +22,12 @@
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
       },        
       {
-        "name": "Uniswap",
+        "name": "UniCardano",
         "address": "0x04991cE8ac8A95fF64Fa3aA76Aa495970069aD33",
         "symbol": "UNI",
         "decimals": 18,
         "chainId": 200101,
-        "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+        "logoURI": "ipfs://QmRtmcMdjSEJidnGEBvmmoH7N2ygbEs6hpeDHPVTYwVy92"
       },
       {
         "name": "Wrapped Ada",
